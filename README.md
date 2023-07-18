@@ -9,7 +9,10 @@ Traditionally, legal research involved manually reviewing legal documents and da
 
 ## Result:
 
-https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/f026eb09-cc39-40d6-9b5d-f731793aa633
+
+https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/b8a06dac-deea-4984-a04b-b7bc8f7f2b8c
+
+
 
 
 The final result should be the precedents of the case description that was entered along with the best citation for that case (Using Cosine Similarity) and 4 more citations that are most relevant to the case description. There is also a relevance bar that shows how much the case description is relevant to the precedents
@@ -39,8 +42,8 @@ This repository contains only the final method that was implemented for better r
 ## Methodologies:
 Methods used in this application are given below, the accuracy scores depict that the sentence embeddings performed better than all the other methods, therefore the Python files in the project contain only the code related to the best performer (Universal Sentence Encoder with Support Vector Machines).
 
-<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/027d87cc-1c74-425f-bd56-ac763dd49da6" width="350" height="200" />
-<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/67bc3709-b463-4776-8e96-32172170750b" width="450" height="200" />
+<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/027d87cc-1c74-425f-bd56-ac763dd49da6" width="400" height="200" />
+<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/67bc3709-b463-4776-8e96-32172170750b" width="500" height="200" />
 
 
 
