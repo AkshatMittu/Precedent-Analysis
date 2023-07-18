@@ -9,14 +9,7 @@ Traditionally, legal research involved manually reviewing legal documents and da
 
 ## Result:
 
-
-
-
-<video width="320" height="240" controls autoplay>
-  <source src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/b8a06dac-deea-4984-a04b-b7bc8f7f2b8c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/b8a06dac-deea-4984-a04b-b7bc8f7f2b8c
 
 The final result should be the precedents of the case description that was entered along with the best citation for that case (Using Cosine Similarity) and 4 more citations that are most relevant to the case description. There is also a relevance bar that shows how much the case description is relevant to the precedents
 
