@@ -1,0 +1,28 @@
+import pandas as pd
+from fpdf import FPDF
+
+df = pd.read_csv('scotus_cleaned.csv')
+a = "Something"
+pdf = FPDF()
+pdf.add_page()
+pdf.set_font("Arial","BU",16)
+pdf.cell(0,9,f"Case Name: {df.iloc[0]['case_name'].title()}",ln=1,align="C")
+pdf.cell(84,10,"",ln=1)
+pdf.set_font("Arial","B",13)
+pdf.cell(60,6,"Author Name:")
+pdf.set_font("Arial","",13)
+pdf.cell(45,6,f"{df.iloc[0]['author_name'].title()}",ln=1)
+pdf.set_font("Arial","B",13)
+pdf.cell(60,7,"Category:")
+pdf.set_font("Arial","",13)
+pdf.cell(45,7,f"{df.iloc[0]['category'].title()}",ln=1)
+pdf.set_font("Arial","B",13)
+pdf.cell(60,7,"Date Filed:")
+pdf.set_font("Arial","",13)
+pdf.cell(45,7,f"{df.iloc[0]['date_filed'].title()}",ln=1)
+pdf.set_font("Arial","B",13)
+pdf.cell(60,7,"Case Descrption:")
+pdf.set_font("Arial","",13)
+text=df.iloc[0]['text'].encode('latin-1', 'ignore').decode('latin-1')
+pdf.multi_cell(0,5,f"{text}")
+pdf.output(f'{a}.pdf')
