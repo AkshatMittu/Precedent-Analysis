@@ -12,8 +12,6 @@ This repository contains only the final method that was implemented for better r
 
 -The dataset used was SCOTUS (Supreme Court of The United States), 
   Link: https://www.kaggle.com/datasets/gqfiddler/scotus-opinions
-  
 -The frontend part was done using Streamlit, the files generate_pdf is the code used to download the case details in a pdf format.
-
 -The utils file has all the required modules and functions that were used in building this project.
 
