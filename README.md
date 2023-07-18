@@ -25,4 +25,5 @@ This repository contains only the final method that was implemented for better r
             4_About Us.py
         -1_Login.py
 
-#### ![](https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/de3334d2-1464-437e-ae64-b421dd84490f | width=100)
+![WhatsApp Image 2023-07-18 at 13 03 45](https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/cae25231-fd72-4531-bcab-a38cbd74d376 | width=100)
+
