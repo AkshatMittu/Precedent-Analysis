@@ -1,7 +1,7 @@
 # Precedent-Analysis
 This application allows legal practitioners to extract citations or precedents for a given case description.
 
-### Project:
+## Project:
 The ability to accurately and efficiently identify relevant legal cases is critical for lawyers and legal professionals. This application aims to improve the efficiency and accuracy of legal research by using text similarity algorithms to identify potentially relevant cases for a given legal opinion. It involves extracting citations from the text of a legal opinion, computing the similarity between the extracted citations and a database of legal cases, ranking the citations by similarity, and selecting the closest matches as potential citations for the opinion. It has the potential to improve the efficiency and accuracy of legal research, potentially reducing the time and cost needed to conduct legal research, while also increasing accessibility to legal information. It has the potential to benefit lawyers, legal professionals, and individuals who need to conduct legal research. The proposed methodology can be applied in various contexts, such as drafting legal documents, advising clients, developing policies, and conducting academic research, among others.
 
 ## Motivation:
@@ -9,3 +9,8 @@ Traditionally, legal research involved manually reviewing legal documents and da
 
 ## About Repository:
 This repository contains only the final method that was implemented for better results of the application.
+
+-The dataset used was SCOTUS (Supreme Court of The United States), Link: https://www.kaggle.com/datasets/gqfiddler/scotus-opinions
+-The frontend part was done using Streamlit, the files generate_pdf is the code used to download the case details in a pdf format.
+-The utils file has all the required modules and functions that were used in building this project.
+
