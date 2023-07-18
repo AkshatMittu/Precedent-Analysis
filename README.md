@@ -24,7 +24,6 @@ This repository contains only the final method that was implemented for better r
             3_Case.py
             4_About Us.py
         -1_Login.py
-
-![WhatsApp Image 2023-07-18 at 13 03 45]()
-<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/cae25231-fd72-4531-bcab-a38cbd74d376" width="200" height="400" />
+## Flow of Application:
+<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/cae25231-fd72-4531-bcab-a38cbd74d376" width="400" height="400" />
 
