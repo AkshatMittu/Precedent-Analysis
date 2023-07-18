@@ -8,4 +8,4 @@ The ability to accurately and efficiently identify relevant legal cases is criti
 Traditionally, legal research involved manually reviewing legal documents and databases, such as court opinions, statutes, regulations, and law reviews. Lawyers and legal professionals would typically start with a broad search, using keywords and phrases related to the legal issue they are researching, and then refine their search based on the results. This process can be time-consuming and may require reviewing large volumes of legal materials to find relevant cases. Additionally, lawyers and legal professionals may consult with other lawyers or legal experts in the field to get guidance on which cases are most relevant or to identify cases that they may have missed in their initial search.
 
 ## About Repository:
-This repository contains only the final method that was implemented for better results of the application
+This repository contains only the final method that was implemented for better results of the application.
