@@ -25,5 +25,8 @@ This repository contains only the final method that was implemented for better r
             4_About Us.py
         -1_Login.py
 ## Flow of Application:
-<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/cae25231-fd72-4531-bcab-a38cbd74d376" width="400" height="400" />
+<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/cae25231-fd72-4531-bcab-a38cbd74d376" width="500" height="400" />
 
+## Methodologies:
+Methods used in this application are given below, the accuracy scores depict that the sentence embeddings performed better than all the other methods, therefore the Python files in the project contain only the code related to the best performer (Universal Sentence Encoder with Support Vector Machines)
+<img src="https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/027d87cc-1c74-425f-bd56-ac763dd49da6" width="500" height="400" />
