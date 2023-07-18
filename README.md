@@ -18,6 +18,7 @@ This repository contains only the final method that was implemented for better r
 -The utils file has all the required modules and functions that were used in building this project.
 
 - While downloading make sure the directory structure is like this:
+  
         -pages
             2_Register.py
             3_Case.py
