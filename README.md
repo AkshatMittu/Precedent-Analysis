@@ -1,0 +1,10 @@
+# Precedent-Analysis
+This application allows legal practitioners to extract citations or precedents for a given case description.
+
+## Project:
+The ability to accurately and efficiently identify relevant legal cases is critical for lawyers and legal professionals. This application aims to improve the efficiency and accuracy of legal research by using text similarity algorithms to identify potentially relevant cases for a given legal opinion. It involves extracting citations from the text of a legal opinion, computing the similarity between the extracted citations and a database of legal cases, ranking the citations by similarity, and selecting the closest matches as potential citations for the opinion. It has the potential to improve the efficiency and accuracy of legal research, potentially reducing the time and cost needed to conduct legal research, while also increasing accessibility to legal information. It has the potential to benefit lawyers, legal professionals, and individuals who need to conduct legal research. The proposed methodology can be applied in various contexts, such as drafting legal documents, advising clients, developing policies, and conducting academic research, among others.
+
+## Motivation:
+Traditionally, legal research involved manually reviewing legal documents and databases, such as court opinions, statutes, regulations, and law reviews. Lawyers and legal professionals would typically start with a broad search, using keywords and phrases related to the legal issue they are researching, and then refine their search based on the results. This process can be time-consuming and may require reviewing large volumes of legal materials to find relevant cases. Additionally, lawyers and legal professionals may consult with other lawyers or legal experts in the field to get guidance on which cases are most relevant or to identify cases that they may have missed in their initial search.
+
+
