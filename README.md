@@ -11,7 +11,7 @@ Traditionally, legal research involved manually reviewing legal documents and da
 
 https://github.com/AkshatMittu/Precedent-Analysis/assets/77678378/b8a06dac-deea-4984-a04b-b7bc8f7f2b8c
 
-The final result should be the precedents of the case description that was entered along with the best citation for that case (Using Cosine Similarity) and 4 more citations that are most relevant to the case description. There is also a relevance bar that shows how much the case description is relevant to the precedents
+The final result should be the precedents of the case description that was entered along with the best citation for that case (Using Cosine Similarity) and 4 more citations that are most relevant to the case description. There is also a relevance bar that shows how much the case description is relevant to the precedents.
 
 
 
@@ -23,7 +23,7 @@ This repository contains only the final method that was implemented for better r
   
 -The frontend part was done using Streamlit, the files generate_pdf is the code used to download the case details in a pdf format.
 
--The utils file has all the required modules and functions that were used in building this project.
+-The utils file has all the required modules and functions used to build this project.
 
 - While downloading make sure the directory structure is like this:
   
