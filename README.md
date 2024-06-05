@@ -1,5 +1,6 @@
 # Precedent-Analysis
 This application allows legal practitioners to extract citations or precedents for a given case description.
+
 Paper: https://arxiv.org/abs/2406.01609
 
 ## Project:
